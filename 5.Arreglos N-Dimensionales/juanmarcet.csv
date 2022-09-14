@@ -1,0 +1,9 @@
+lapiz,pluma,borrador,regla,cartulina,goma,sacapuntas,escuadra
+20200705,20200519,20220523
+cod_vendedora,articulo_1|cantidad;articulo_2|cantidad
+20200705,borrador|14;regla|13;cartulina|4;escuadra|4;goma|21
+20200519,goma|15;escuadra|3;regla|9;lapiz|12;pluma|6;borrador|17;sacapuntas|6
+20200705,cartulina|1;lapiz|2;pluma|22;escuadra|2;borrador|14;regla|15;goma|6
+20200705,lapiz|2;pluma|8;borrador|3;regla|4;cartulina|22;goma|15;sacapuntas|13;escuadra|20
+20200519,borrador|12;pluma|14;lapiz|23;sacapuntas|23;cartulina|16;goma|18;escuadra|23
+20220523,sacapuntas|12;escuadra|19;goma|1;regla|16;cartulina|19;pluma|12

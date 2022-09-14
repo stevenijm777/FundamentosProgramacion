@@ -1,0 +1,151 @@
+Comprador,Vendedor,Producto,Unidadesvendidas,Ventasen$,Fecha
+Ecuador,Alemania,Narcisos,29103,4523.18,10-08-2020
+China,Ecuador,Ciclamen,70721,108682.1,28-04-2020
+Peru,Estados Unidos,Ciclamen,32968,28525.65,8-09-2020
+China,Estados Unidos,Tulipanes,98837,27219.39,6-08-2020
+Estados Unidos,Colombia,Dalias,58244,63166.81,18-04-2018
+China,Estados Unidos,Rosas,67974,99179.92,4-03-2018
+Estados Unidos,Alemania,Dalias,9112,10215.07,28-05-2019
+China,Estados Unidos,Corazon Sangrante,13291,25838.63,23-06-2018
+Alemania,Italia,Corazon Sangrante,107846,107066.38,10-05-2020
+China,Ecuador,Lirios,66880,25099.49,24-12-2018
+Alemania,Estados Unidos,Rosas,66786,41343.66,1-04-2021
+Estados Unidos,Colombia,Rosas,108326,35589.85,17-04-2020
+Peru,China,Corazon Sangrante,43746,65370.28,19-06-2019
+Colombia,Ecuador,Ciclamen,56454,42945.78,21-02-2018
+Italia,Colombia,Peonias,72935,121827.94,19-09-2019
+Colombia,Peru,Ciclamen,66352,113836.82,6-02-2018
+Rusia,Mexico,Rosas,21489,4861.34,22-10-2018
+Colombia,Rusia,Ciclamen,65865,25153.12,12-06-2019
+China,Italia,Ciclamen,76094,151964.4,19-10-2018
+Italia,Francia,Narcisos,115805,115018.1,8-06-2018
+Francia,Estados Unidos,Dalias,89753,119192.83,7-12-2021
+Ecuador,Colombia,Peonias,74511,57904.68,6-04-2018
+Ecuador,Estados Unidos,Rosas,49896,29293.57,24-07-2021
+China,Alemania,Margaritas,89564,106817.58,14-02-2021
+Mexico,Estados Unidos,Narcisos,73542,97317.07,6-01-2019
+Colombia,Mexico,Rosas,68037,43488.68,19-09-2021
+China,Estados Unidos,Corazon Sangrante,54327,68496.03,13-05-2020
+Alemania,Rusia,Rosas,30118,19830.79,28-07-2020
+China,Rusia,Dalias,53298,99728.56,2-05-2020
+Peru,Colombia,Azaleas,86171,35632.86,3-10-2020
+Italia,Alemania,Tulipanes,110579,160575.63,3-09-2019
+Colombia,Francia,Azaleas,93871,113019.48,22-10-2019
+China,Colombia,Peonias,38026,49636.14,20-11-2018
+Peru,Mexico,Rosas,16847,30505.44,18-04-2020
+China,Italia,Peonias,61250,28681.77,25-05-2019
+Francia,Colombia,Margaritas,51703,78478.87,22-09-2019
+Ecuador,Peru,Azaleas,40024,51377.33,26-05-2019
+China,Mexico,Lirios,59124,12516.74,19-01-2020
+Estados Unidos,Italia,Rosas,71542,71198.15,21-05-2021
+Francia,Mexico,Azaleas,112116,24179.15,14-09-2020
+Italia,Mexico,Azaleas,96287,41667.34,7-01-2020
+Rusia,Alemania,Narcisos,42973,38707.69,25-11-2018
+Alemania,Estados Unidos,Margaritas,85638,67897.14,4-04-2019
+Alemania,Peru,Tulipanes,100398,162760.35,8-10-2021
+China,Mexico,Ciclamen,35050,62410.64,17-02-2021
+Ecuador,Colombia,Ciclamen,104977,71766.98,13-07-2020
+Colombia,Alemania,Tulipanes,76807,148737.57,7-12-2018
+Mexico,Peru,Lirios,115849,24496.57,15-04-2018
+Estados Unidos,Peru,Rosas,61565,50497.02,19-05-2018
+Colombia,Ecuador,Dalias,10762,14606.85,9-06-2019
+Colombia,Peru,Tulipanes,17753,20049.24,25-03-2021
+Peru,Alemania,Dalias,68573,54001.16,16-06-2019
+Alemania,Peru,Ciclamen,60524,79202.5,2-02-2020
+Italia,Rusia,Margaritas,45357,81842.37,28-05-2019
+Rusia,Alemania,Corazon Sangrante,103372,193603.7,3-06-2021
+Alemania,Estados Unidos,Margaritas,51728,78099.82,18-02-2020
+Italia,Ecuador,Dalias,7995,11951.24,28-01-2018
+Rusia,Ecuador,Corazon Sangrante,102656,174887.43,19-03-2021
+China,Colombia,Rosas,72416,104297.14,2-11-2019
+Mexico,Francia,Dalias,22272,23942.69,25-04-2018
+Rusia,Peru,Rosas,26410,30164.52,25-10-2020
+Alemania,Francia,Lirios,11434,14740.71,25-11-2021
+Colombia,Rusia,Ciclamen,43020,53995.13,12-02-2019
+Ecuador,Colombia,Margaritas,83613,53641.14,26-08-2020
+Francia,Rusia,Peonias,94432,56661.84,21-09-2019
+Rusia,Estados Unidos,Dalias,85760,166199.86,15-10-2018
+Peru,Italia,Azaleas,37098,15545.12,23-01-2019
+Ecuador,Francia,Corazon Sangrante,92267,113836.73,22-09-2021
+Alemania,Estados Unidos,Peonias,24650,35154.27,16-01-2019
+Alemania,Peru,Margaritas,79939,127903.29,4-11-2019
+Francia,Italia,Narcisos,10893,10414.53,5-10-2019
+Ecuador,Colombia,Corazon Sangrante,118992,101473.76,10-11-2018
+Alemania,Rusia,Lirios,7903,3445.69,1-05-2018
+Peru,Rusia,Azaleas,85627,111891.89,3-07-2020
+Italia,Alemania,Margaritas,105533,14440.1,26-01-2021
+Ecuador,China,Corazon Sangrante,52779,50133.12,9-08-2018
+Colombia,Alemania,Narcisos,72241,1671.13,28-10-2020
+Italia,Francia,Lirios,71038,13630.6,7-11-2018
+Francia,China,Ciclamen,67187,23355.36,12-11-2020
+Italia,China,Peonias,24280,47562.51,9-09-2020
+Francia,Estados Unidos,Margaritas,109625,186497.18,13-01-2021
+Peru,Rusia,Azaleas,111247,96394.6,9-03-2018
+Mexico,Colombia,Narcisos,84102,143968.81,5-07-2019
+Colombia,Mexico,Peonias,72871,126325.59,24-12-2019
+Colombia,Estados Unidos,Lirios,97201,138183.95,22-04-2021
+Italia,Ecuador,Margaritas,119903,186004.56,22-03-2020
+Estados Unidos,Francia,Margaritas,49502,92768.84,24-06-2019
+Italia,Alemania,Ciclamen,116747,70051.37,3-06-2018
+Ecuador,Francia,Tulipanes,14085,18404.05,25-08-2020
+Ecuador,Alemania,Dalias,48639,35007.93,24-12-2021
+Alemania,Peru,Corazon Sangrante,31281,62220.0,28-04-2020
+Alemania,Peru,Margaritas,36293,54288.37,6-03-2021
+China,Rusia,Lirios,6504,5809.76,17-06-2020
+Francia,Italia,Tulipanes,92697,60379.47,3-08-2020
+Francia,Peru,Lirios,13947,5931.81,6-09-2020
+Italia,Alemania,Dalias,98690,21137.43,20-06-2021
+Italia,China,Margaritas,85457,92121.94,11-08-2021
+Mexico,Rusia,Ciclamen,106971,69799.35,7-07-2021
+Francia,Rusia,Ciclamen,35169,6950.94,4-05-2019
+China,Italia,Ciclamen,41835,25229.5,15-03-2021
+Estados Unidos,Italia,Azaleas,43080,9053.84,22-06-2018
+Alemania,Ecuador,Corazon Sangrante,58527,65596.69,3-10-2020
+Rusia,China,Corazon Sangrante,65824,104795.91,11-06-2021
+Rusia,Peru,Ciclamen,64258,100541.68,27-09-2021
+Colombia,Italia,Margaritas,99741,166164.87,16-09-2021
+Ecuador,Colombia,Margaritas,118833,186521.72,19-06-2019
+Francia,China,Peonias,75659,148846.77,18-08-2019
+Rusia,Mexico,Rosas,109784,45269.24,14-06-2019
+Colombia,Francia,Corazon Sangrante,104487,198866.07,3-02-2021
+Alemania,Peru,Dalias,100088,194193.56,19-07-2019
+Francia,Peru,Peonias,36570,36198.31,24-12-2021
+Peru,Ecuador,Narcisos,54155,70636.36,16-06-2021
+Alemania,Estados Unidos,Corazon Sangrante,86837,115763.03,14-01-2020
+Italia,Francia,Tulipanes,47615,11778.08,13-07-2019
+Colombia,Mexico,Tulipanes,109020,34686.59,23-04-2021
+China,Colombia,Dalias,104304,198326.14,22-09-2020
+Alemania,Mexico,Azaleas,91598,164167.44,8-02-2019
+China,Ecuador,Dalias,79972,102567.8,9-06-2021
+Italia,Peru,Margaritas,111066,42422.16,11-03-2021
+Rusia,Ecuador,Rosas,105756,182389.15,5-03-2019
+Francia,Colombia,Azaleas,37735,68382.34,9-09-2021
+Alemania,Francia,Narcisos,60260,97794.64,18-03-2019
+Peru,Rusia,Corazon Sangrante,71906,13229.55,3-06-2019
+Colombia,China,Rosas,20064,32677.95,17-03-2018
+Peru,Alemania,Corazon Sangrante,10741,6425.94,21-08-2018
+Mexico,Ecuador,Narcisos,52131,23405.59,4-06-2020
+Francia,Rusia,Narcisos,48075,88805.92,16-09-2020
+Francia,Mexico,Lirios,63665,21397.58,24-12-2021
+Ecuador,Mexico,Tulipanes,53966,24273.89,18-08-2019
+Peru,Italia,Dalias,20876,38133.05,6-07-2018
+China,Francia,Rosas,102071,147760.05,22-09-2020
+Rusia,Estados Unidos,Rosas,38006,21120.37,1-12-2018
+Ecuador,Estados Unidos,Narcisos,51590,19872.53,1-01-2021
+Colombia,Mexico,Ciclamen,22632,25932.03,26-01-2019
+China,Mexico,Tulipanes,37561,53383.61,26-03-2018
+Peru,Francia,Rosas,77419,46264.55,5-03-2021
+Peru,Colombia,Lirios,117752,143323.39,19-08-2021
+Italia,Francia,Peonias,54108,95132.74,14-02-2018
+Italia,Ecuador,Ciclamen,29225,38590.46,16-01-2018
+Alemania,Mexico,Corazon Sangrante,81497,144954.83,23-03-2018
+Francia,Rusia,Corazon Sangrante,65079,123749.95,1-12-2018
+China,Colombia,Rosas,79422,9885.36,11-05-2020
+China,Mexico,Dalias,8007,4492.56,1-02-2019
+Italia,Ecuador,Narcisos,58123,74060.06,10-12-2018
+China,Alemania,Narcisos,109010,133408.72,13-06-2019
+Peru,Rusia,Margaritas,54876,64546.41,21-03-2020
+Ecuador,Rusia,Narcisos,110825,85006.8,19-01-2021
+Alemania,Colombia,Narcisos,65021,115291.5,6-06-2021
+Alemania,Mexico,Peonias,50018,87133.19,13-03-2021
+Mexico,Ecuador,Lirios,100032,102430.62,15-01-2021

@@ -1,0 +1,151 @@
+Comprador,Vendedor,Producto,Unidadesvendidas,Ventasen$,Fecha
+Colombia,Rusia,Naranja,5805,1046.67,11-11-2018
+Rusia,Italia,Naranja,99758,152270.95,25-05-2020
+Colombia,Francia,Cereza,80526,95323.67,23-02-2021
+Italia,Peru,Manzana,34026,23905.66,20-02-2018
+Colombia,Italia,Mandarina,58708,56856.75,15-10-2021
+China,Peru,Papaya,71465,117662.73,24-11-2019
+Estados Unidos,China,Limon,37940,72617.63,11-12-2019
+Mexico,Rusia,Kaki,15257,16652.79,13-11-2018
+Peru,Italia,Grosella,79161,76100.38,3-06-2019
+Francia,Estados Unidos,Naranja,110272,179939.64,14-08-2020
+Alemania,Italia,Limon,80525,116163.64,5-01-2018
+Estados Unidos,Italia,Kaki,30030,31175.12,9-08-2021
+Colombia,Estados Unidos,Manzana,13451,14603.32,1-01-2021
+Colombia,Mexico,Cacao,68798,32256.53,23-05-2021
+Ecuador,Colombia,Kaki,54594,9312.98,10-06-2019
+Estados Unidos,Peru,Kaki,75162,117666.6,27-11-2018
+Ecuador,Estados Unidos,Cereza,34121,43797.93,21-10-2018
+Alemania,China,Cereza,116824,39340.56,15-04-2020
+China,Colombia,Cacao,98556,38633.33,7-06-2019
+Francia,Alemania,Limon,76714,75902.42,5-05-2018
+Francia,China,Cacao,26496,37930.6,5-12-2019
+Colombia,Italia,Frambuesa,53723,5556.54,13-03-2019
+Colombia,Francia,Frambuesa,95165,1785.25,23-01-2018
+Estados Unidos,Francia,Manzana,25617,24114.18,2-06-2020
+Ecuador,Peru,Cacao,85724,100409.76,12-12-2018
+Colombia,Alemania,Kaki,86807,114379.65,24-01-2018
+Peru,Rusia,Mandarina,39754,5427.37,24-11-2019
+Francia,Italia,Kaki,87289,82031.36,16-03-2020
+Colombia,Mexico,Naranja,55341,35086.27,16-12-2019
+Estados Unidos,China,Papaya,28495,33926.57,15-02-2019
+Alemania,Ecuador,Manzana,90576,89707.81,5-03-2020
+Rusia,Mexico,Mandarina,111772,116172.27,6-04-2019
+Alemania,Italia,Naranja,88317,164059.12,28-08-2019
+Italia,Francia,Frambuesa,23002,2366.25,23-06-2019
+Italia,Francia,Grosella,63883,18391.49,20-12-2018
+Italia,Ecuador,Kaki,59902,10134.99,3-01-2018
+Ecuador,Italia,Limon,56790,30856.96,18-08-2019
+Rusia,China,Cacao,70623,97508.17,17-03-2021
+Francia,Rusia,Naranja,61811,77871.71,11-03-2021
+Francia,China,Kaki,101936,72162.09,24-04-2019
+Mexico,Ecuador,Mandarina,96990,66969.59,2-11-2019
+Estados Unidos,Francia,Naranja,5049,1880.7,20-12-2021
+Francia,Colombia,Papaya,18317,18296.32,7-09-2019
+Rusia,Mexico,Papaya,58447,2050.83,15-01-2019
+Francia,China,Frambuesa,23344,187.24,16-12-2018
+Estados Unidos,Colombia,Frambuesa,79669,91620.3,12-08-2019
+Francia,Mexico,Manzana,98890,80449.92,6-04-2018
+Colombia,Estados Unidos,Kaki,51117,101898.33,13-07-2021
+Rusia,Estados Unidos,Grosella,7599,3500.82,16-12-2019
+Ecuador,Peru,Papaya,26758,24865.31,8-10-2019
+Italia,Peru,Papaya,11969,21366.95,19-03-2018
+Estados Unidos,Peru,Manzana,36084,17422.51,24-12-2020
+Mexico,Rusia,Papaya,39386,39719.74,8-09-2021
+Rusia,Colombia,Mandarina,52365,58242.32,16-06-2020
+Mexico,China,Mandarina,113042,78092.93,18-12-2018
+Italia,Mexico,Manzana,53982,106264.17,27-02-2020
+Alemania,Estados Unidos,Limon,112734,175261.28,13-02-2020
+Rusia,Estados Unidos,Naranja,111106,173557.9,6-04-2021
+China,Rusia,Cereza,94596,149698.25,3-11-2020
+Peru,Mexico,Grosella,116453,193819.24,1-05-2019
+Ecuador,Rusia,Cereza,31598,48796.6,25-03-2019
+Francia,Ecuador,Mandarina,91335,149781.28,2-05-2019
+Mexico,Rusia,Kaki,117654,98678.16,11-10-2020
+Italia,Alemania,Papaya,105980,110843.76,20-06-2018
+Francia,Mexico,Mandarina,45037,13010.11,7-01-2019
+Italia,Francia,Naranja,81576,51788.63,20-07-2019
+Mexico,Peru,Cereza,18741,1428.85,2-07-2021
+Italia,Francia,Frambuesa,8431,7889.0,12-06-2019
+Colombia,Mexico,Manzana,111314,116457.45,24-10-2021
+Alemania,Ecuador,Mandarina,71883,137680.31,10-01-2021
+Peru,Ecuador,Cereza,84634,86941.53,5-02-2021
+China,Alemania,Manzana,88566,94134.92,24-01-2018
+Alemania,Estados Unidos,Grosella,95028,183427.91,8-11-2019
+Peru,Italia,Naranja,74286,84815.93,4-02-2020
+Mexico,Estados Unidos,Cacao,79224,116613.35,12-03-2021
+Mexico,Italia,Cacao,81965,19884.5,22-10-2018
+Colombia,Mexico,Frambuesa,116161,206897.64,13-06-2018
+Estados Unidos,Francia,Manzana,82046,148599.83,14-02-2020
+Ecuador,China,Papaya,91578,53784.21,14-04-2020
+Peru,Colombia,Frambuesa,73506,84749.42,15-11-2018
+Ecuador,Francia,Manzana,43596,63132.36,2-01-2019
+Mexico,Colombia,Grosella,103213,120434.45,17-11-2018
+Peru,Mexico,Manzana,43266,69477.68,13-09-2019
+Ecuador,Mexico,Manzana,112932,204275.91,13-02-2018
+China,Estados Unidos,Cereza,119165,171157.24,28-11-2019
+Italia,Colombia,Grosella,12559,15394.31,14-04-2020
+Francia,Colombia,Papaya,37061,59188.01,21-02-2019
+Alemania,Rusia,Frambuesa,16148,6724.98,5-04-2018
+Italia,Alemania,Kaki,41305,6213.81,2-01-2019
+Estados Unidos,China,Mandarina,15447,9493.44,22-04-2019
+Italia,Mexico,Cereza,71621,88285.58,24-08-2020
+Alemania,China,Papaya,110657,135945.23,22-08-2020
+Estados Unidos,China,Papaya,43160,61730.73,18-03-2018
+Francia,Colombia,Cereza,12953,661.48,23-11-2020
+Colombia,Alemania,Cacao,22592,20497.12,20-05-2019
+Rusia,Italia,Grosella,114417,169662.43,7-03-2019
+Mexico,Rusia,Frambuesa,100054,179266.31,15-01-2018
+Francia,Estados Unidos,Limon,52121,27333.67,21-12-2020
+Peru,Francia,Cacao,80282,151976.77,12-10-2018
+Colombia,Alemania,Naranja,55544,57610.4,18-11-2019
+Ecuador,Peru,Mandarina,20844,8288.56,24-09-2021
+Alemania,Rusia,Cacao,25825,28296.4,1-07-2021
+Rusia,China,Cacao,46583,44381.25,12-10-2019
+Mexico,China,Grosella,55873,99537.79,25-07-2020
+Rusia,Peru,Cacao,33870,8509.23,14-07-2019
+Italia,Colombia,Naranja,92079,3629.53,5-09-2021
+Mexico,China,Naranja,28458,5607.74,7-04-2018
+China,Peru,Cereza,59504,1908.55,15-01-2020
+Mexico,Francia,Kaki,22948,44345.93,12-01-2018
+Mexico,Italia,Kaki,10044,14768.47,10-06-2021
+Peru,Rusia,Manzana,113915,127334.66,28-07-2019
+Francia,Peru,Frambuesa,14610,25864.55,15-04-2020
+Colombia,China,Papaya,113850,117118.6,5-04-2020
+Peru,Alemania,Cacao,77581,52543.58,20-01-2018
+Mexico,Rusia,Limon,40629,66154.01,7-05-2018
+Peru,China,Papaya,104809,116092.89,13-08-2019
+Italia,Alemania,Cacao,90745,164235.84,16-06-2020
+Ecuador,Alemania,Papaya,13728,290.59,12-08-2021
+Italia,Ecuador,Cereza,54004,53064.32,21-04-2019
+Alemania,Estados Unidos,Frambuesa,17905,9881.53,13-10-2018
+Mexico,Colombia,Limon,79919,86567.76,17-09-2018
+Alemania,Colombia,Kaki,49399,67773.35,1-06-2021
+Ecuador,Peru,Naranja,78234,40494.81,18-09-2019
+China,Colombia,Kaki,60308,59964.3,2-01-2018
+Estados Unidos,Colombia,Manzana,110106,211064.31,15-08-2018
+Mexico,Peru,Papaya,117358,217875.82,1-03-2019
+Estados Unidos,Italia,Mandarina,40497,15682.88,11-05-2021
+China,Estados Unidos,Papaya,51385,28201.01,26-10-2021
+Mexico,Alemania,Cereza,26470,12252.44,20-07-2019
+Rusia,Ecuador,Naranja,35208,3422.17,21-09-2018
+Ecuador,Rusia,Cereza,27390,37528.88,12-08-2021
+Italia,China,Naranja,100540,138452.82,13-09-2019
+Estados Unidos,Peru,Frambuesa,91452,81079.1,12-08-2019
+Mexico,Estados Unidos,Mandarina,44282,58482.34,25-07-2021
+Italia,Francia,Mandarina,81286,146182.53,27-06-2021
+Colombia,Rusia,Kaki,47590,12319.42,2-06-2021
+Ecuador,Italia,Grosella,88925,20047.15,16-01-2020
+Estados Unidos,Italia,Naranja,58501,111193.01,26-09-2019
+Ecuador,Mexico,Grosella,9566,14731.65,5-08-2020
+Peru,China,Kaki,119884,147610.63,3-09-2019
+Peru,China,Papaya,105435,142817.03,1-04-2021
+China,Italia,Papaya,92076,151160.72,3-03-2020
+Rusia,Alemania,Mandarina,34838,41216.94,21-05-2020
+Rusia,Alemania,Papaya,111167,43340.28,7-08-2020
+Mexico,Ecuador,Frambuesa,76728,32219.25,16-10-2020
+Francia,Rusia,Kaki,100042,57589.41,15-02-2020
+China,Alemania,Kaki,100273,53567.03,14-11-2020
+Alemania,Estados Unidos,Frambuesa,105365,200536.41,18-02-2019
+Italia,Peru,Frambuesa,49325,6101.54,2-05-2021
+Rusia,Mexico,Frambuesa,71483,107595.04,14-05-2019

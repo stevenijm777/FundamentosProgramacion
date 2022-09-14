@@ -1,0 +1,4 @@
+Pais,Jugador,Tarjetas_Amarillas,Tarjetas_Rojas,Goles,Minutos,KM_recorridos
+Ecuador,Jose Cifuentes,1,0,0,75,6.3
+Uruguay,Sebastian Caceres,2,1,0,90,7
+Ecuador,Leonardo Campana,0,0,1,87,10

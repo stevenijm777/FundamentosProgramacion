@@ -1,0 +1,151 @@
+Comprador,Vendedor,Producto,UnidadesVendidas,VentasEn$,Fecha
+Rusia,Alemania,Pino,87157,99254.6,27-09-2021
+Peru,Rusia,Fresno,5662,7789.91,22-08-2020
+Colombia,Italia,Arce,84134,101877.41,17-11-2021
+Colombia,Estados Unidos,Cedro,41184,4542.81,17-10-2020
+Mexico,Rusia,Cedro,58270,88666.82,27-02-2021
+Italia,Mexico,Arce,20966,5285.23,24-03-2020
+Alemania,Francia,Nogal,61454,33086.14,3-01-2020
+Italia,Rusia,Cedro,101433,189850.07,5-05-2020
+Ecuador,Estados Unidos,Abeto,59030,2952.45,20-12-2020
+Ecuador,Mexico,Roble,18490,22802.28,1-10-2020
+Rusia,Mexico,Caoba,40386,22549.88,27-07-2021
+Estados Unidos,China,Fresno,46086,77489.38,9-12-2021
+Ecuador,Mexico,Pino,40808,35689.68,10-08-2020
+Peru,Ecuador,Cerezo,46809,30763.7,24-02-2020
+Alemania,China,Fresno,85288,312.67,19-05-2018
+Rusia,Ecuador,Pino,60224,48272.7,3-10-2018
+Colombia,Alemania,Roble,23473,27241.31,14-09-2021
+Mexico,Estados Unidos,Cerezo,93271,103849.44,7-04-2020
+Italia,Francia,Cerezo,63399,37379.93,10-11-2019
+Italia,China,Roble,33799,27005.98,24-04-2018
+Mexico,Ecuador,Nogal,39077,61974.5,13-09-2021
+Peru,Francia,Cedro,75840,75575.91,11-01-2021
+Alemania,China,Nogal,69241,1028.79,4-04-2021
+Rusia,Peru,Cedro,78395,12275.34,20-03-2021
+China,Alemania,Cerezo,53327,5977.95,9-01-2018
+Italia,Mexico,Haya,51121,95574.41,21-11-2018
+Estados Unidos,China,Caoba,94495,92369.43,16-04-2018
+Ecuador,Francia,Nogal,46304,2530.61,28-11-2019
+Rusia,Mexico,Cerezo,23366,20220.26,19-06-2020
+Ecuador,Italia,Cedro,96363,161037.44,1-12-2019
+Rusia,Alemania,Arce,57437,12527.16,10-10-2018
+Ecuador,Rusia,Arce,92744,159143.21,11-11-2019
+Ecuador,Rusia,Roble,88797,106894.69,20-06-2020
+China,Ecuador,Abeto,29805,39466.8,2-03-2019
+Mexico,Alemania,Caoba,6250,8880.98,22-05-2020
+Alemania,Francia,Cedro,38357,65562.89,23-10-2018
+Peru,Alemania,Pino,18218,18328.01,17-02-2021
+Italia,Colombia,Pino,5130,271.58,12-10-2020
+Francia,China,Cerezo,116488,136808.33,19-08-2020
+Colombia,Mexico,Haya,31182,40291.93,14-04-2020
+Estados Unidos,Peru,Cedro,78869,129512.72,8-08-2021
+Mexico,Italia,Caoba,41612,46478.95,20-08-2019
+China,Francia,Caoba,111359,84919.04,20-12-2021
+Peru,Alemania,Abeto,14943,22802.49,25-01-2021
+Ecuador,Colombia,Roble,32317,7453.11,19-06-2021
+Peru,Francia,Roble,113676,147876.28,13-05-2019
+Ecuador,Francia,Arce,68569,81058.5,14-01-2020
+Colombia,Alemania,Arce,12755,5238.93,22-04-2019
+Ecuador,Mexico,Nogal,84669,145793.92,9-12-2019
+Italia,Colombia,Nogal,21328,20352.33,15-06-2021
+Peru,Francia,Cerezo,54370,101351.47,14-03-2020
+Estados Unidos,Mexico,Pino,50311,69885.48,17-05-2018
+China,Francia,Cerezo,10453,1307.21,6-06-2018
+Mexico,Alemania,Roble,21350,11078.45,8-07-2020
+Peru,Rusia,Pino,21960,29171.69,13-02-2021
+China,Colombia,Cedro,47592,66370.8,23-07-2019
+Peru,Colombia,Haya,39719,63501.08,26-09-2021
+Colombia,Ecuador,Arce,28044,13262.36,11-04-2019
+Italia,Colombia,Abeto,66670,53335.9,24-03-2021
+Ecuador,Estados Unidos,Cerezo,93931,40796.9,8-12-2020
+Alemania,Mexico,Arce,73144,76325.55,20-03-2018
+Colombia,Ecuador,Fresno,114694,157465.09,24-04-2020
+Alemania,Estados Unidos,Pino,87264,160736.63,17-01-2021
+Alemania,Mexico,Arce,52847,82511.02,24-11-2021
+Alemania,Italia,Cedro,41397,11796.41,26-07-2019
+Italia,Mexico,Nogal,117000,229122.56,16-07-2020
+Italia,China,Roble,106362,172338.04,21-10-2018
+Rusia,Alemania,Roble,67486,16640.53,9-07-2020
+Rusia,China,Abeto,47906,67819.69,2-04-2021
+Italia,Alemania,Caoba,92728,27808.93,10-07-2018
+Francia,Mexico,Roble,96373,149448.27,19-02-2018
+Italia,China,Roble,49365,46571.69,16-10-2020
+Alemania,Francia,Arce,52957,43915.24,3-07-2020
+Alemania,China,Cerezo,103538,27223.85,19-02-2021
+Peru,Colombia,Roble,118342,147999.69,19-04-2018
+Rusia,Italia,Arce,59241,104441.6,19-05-2018
+Italia,Rusia,Haya,118079,163026.38,21-07-2018
+Rusia,Peru,Fresno,36877,28555.48,20-05-2020
+Italia,Alemania,Nogal,73710,31433.3,11-03-2018
+Peru,Colombia,Caoba,81587,27438.67,6-10-2018
+Estados Unidos,Ecuador,Pino,47079,73355.45,18-03-2020
+Estados Unidos,Colombia,Pino,11388,4523.54,24-08-2020
+Italia,Colombia,Roble,119670,59175.95,20-01-2018
+Colombia,Italia,Fresno,118651,86190.88,1-04-2019
+Alemania,Colombia,Abeto,30714,35144.8,4-02-2019
+Rusia,Francia,Cedro,24172,15043.29,17-11-2020
+Francia,Peru,Cedro,111308,193077.2,4-04-2020
+Italia,Mexico,Roble,26939,36365.89,19-05-2018
+Mexico,Colombia,Arce,42058,68395.0,1-10-2021
+Colombia,China,Abeto,103102,42127.16,23-08-2019
+Francia,Peru,Nogal,60910,115783.27,2-02-2020
+Colombia,Rusia,Haya,72298,107737.73,13-02-2019
+China,Colombia,Arce,43948,82904.55,17-12-2021
+Francia,Peru,Arce,71879,59436.52,5-10-2021
+Mexico,Rusia,Cedro,64284,112518.74,9-05-2021
+Ecuador,Alemania,Fresno,16861,18218.69,1-06-2020
+Alemania,Estados Unidos,Arce,5162,4114.84,23-06-2018
+Francia,Rusia,Cerezo,19007,17474.86,19-09-2019
+Estados Unidos,Peru,Cedro,111152,77483.11,10-10-2020
+Mexico,Francia,Cedro,67951,36802.04,17-01-2020
+Alemania,Ecuador,Arce,5981,11499.12,16-07-2019
+Rusia,Colombia,Arce,48314,46398.81,19-03-2019
+Estados Unidos,China,Caoba,83614,53659.42,3-11-2020
+Alemania,Rusia,Cedro,20329,32742.44,27-03-2019
+China,Peru,Roble,107553,107085.06,22-07-2019
+Estados Unidos,Italia,Abeto,15106,11083.95,26-01-2021
+China,Colombia,Cedro,110410,161235.65,25-09-2020
+Francia,Ecuador,Nogal,96063,40407.38,4-03-2019
+Ecuador,Colombia,Pino,46633,13987.01,20-07-2020
+Francia,Alemania,Pino,14135,7608.91,13-03-2018
+Colombia,Mexico,Cedro,65235,74352.26,10-05-2018
+Mexico,Ecuador,Fresno,56095,73176.23,13-06-2020
+Peru,Italia,Haya,62012,85216.61,9-09-2019
+China,Colombia,Caoba,45060,58160.73,16-12-2018
+Peru,Ecuador,Caoba,66385,52464.75,2-11-2019
+Peru,Francia,Roble,105421,132498.19,5-04-2018
+Colombia,Ecuador,Cedro,118295,104671.28,28-11-2021
+Estados Unidos,Peru,Abeto,70932,16241.84,26-08-2019
+China,Italia,Cerezo,81295,151413.37,3-10-2020
+Mexico,China,Nogal,68202,55743.74,27-03-2019
+Francia,China,Fresno,116731,39541.82,7-08-2018
+Alemania,Rusia,Roble,63824,93735.87,10-06-2020
+Francia,Rusia,Fresno,108315,105036.45,15-12-2021
+China,Francia,Abeto,17435,12685.48,16-02-2018
+Colombia,Italia,Arce,106352,77313.47,7-10-2020
+Rusia,Ecuador,Haya,109876,81381.37,17-06-2018
+Alemania,Mexico,Arce,103553,24212.42,4-02-2018
+Peru,Francia,Caoba,97933,19203.8,2-02-2018
+Rusia,Peru,Pino,46629,84052.13,28-03-2018
+Italia,Colombia,Arce,86874,155884.0,25-06-2018
+Italia,China,Fresno,111298,172512.99,2-05-2021
+Estados Unidos,Rusia,Haya,62684,74764.64,4-10-2018
+Mexico,Alemania,Caoba,35449,41952.89,5-01-2020
+China,Rusia,Haya,68874,113649.15,21-11-2019
+China,Francia,Caoba,75254,133219.54,28-07-2021
+Colombia,Rusia,Roble,66983,126166.32,13-04-2021
+Alemania,Estados Unidos,Cerezo,7888,760.39,14-04-2021
+China,Peru,Cerezo,43779,57699.92,15-11-2021
+Estados Unidos,Mexico,Nogal,22824,29425.35,13-10-2018
+Mexico,Rusia,Haya,90308,35914.01,18-01-2019
+Alemania,Peru,Haya,21354,472.56,12-07-2019
+Peru,Estados Unidos,Roble,32082,12946.46,27-03-2020
+Alemania,Peru,Caoba,66376,125590.2,12-08-2018
+Colombia,China,Cedro,105955,105428.08,9-02-2021
+China,Ecuador,Cerezo,74230,51057.09,9-01-2021
+Francia,Mexico,Fresno,13225,8847.02,23-09-2019
+Colombia,China,Cedro,47708,14733.05,16-01-2018
+Mexico,Italia,Pino,91175,59136.42,26-08-2021
+Rusia,Italia,Fresno,113354,226011.04,28-11-2019
+China,Alemania,Nogal,15360,28032.69,20-04-2020

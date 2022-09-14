@@ -1,0 +1,151 @@
+Comprador,Vendedor,Producto,UnidadesVendidas,VentasEn$,Fecha
+Rusia,Mexico,Vino,89325,47539.99,25-11-2021
+Ecuador,Colombia,Vino,116422,92245.5,3-05-2019
+Italia,Alemania,Banyuls frances,68417,26269.33,13-02-2018
+Rusia,Italia,Ron,99504,131760.39,24-04-2020
+Alemania,Peru,Ron,19397,34368.27,24-11-2021
+Mexico,Ecuador,Brandy,99868,119115.13,27-07-2018
+China,Ecuador,Ron,25143,43738.71,20-04-2021
+China,Colombia,Madeira,5230,8371.14,7-01-2020
+Peru,Rusia,Oporto,35471,32504.96,16-07-2021
+Mexico,Peru,Vino,94930,90387.42,14-06-2020
+Ecuador,Peru,Cerveza,67817,107139.48,4-05-2021
+Francia,Peru,Oporto,36860,44209.52,19-03-2021
+Ecuador,Colombia,Ron,72115,20700.58,13-08-2019
+Francia,Estados Unidos,Whisky,54651,65380.22,16-01-2018
+Colombia,China,Cerveza,104567,191268.06,27-12-2018
+Peru,Estados Unidos,Whisky,69740,3037.93,20-11-2018
+Colombia,Francia,Cerveza,99483,28677.51,11-12-2020
+Alemania,Rusia,Whisky,108939,158418.36,5-05-2019
+China,Francia,Ron,114899,11881.76,13-02-2021
+Italia,China,Brandy,47191,60229.64,12-02-2020
+Estados Unidos,Alemania,Cerveza,8514,8665.37,17-01-2019
+Italia,Mexico,Oporto,89178,135621.83,20-08-2018
+China,Alemania,Brandy,111973,69605.44,16-09-2018
+Rusia,Estados Unidos,Vino,58834,75927.06,26-04-2021
+Italia,Colombia,Ron,50325,59260.3,24-07-2021
+China,Ecuador,Brandy,8454,2636.27,2-02-2019
+Rusia,Peru,Banyuls frances,114987,170184.97,18-06-2021
+Ecuador,Estados Unidos,Banyuls frances,117229,193110.93,15-07-2019
+China,Peru,Brandy,119643,9106.47,16-07-2019
+Francia,Italia,Banyuls frances,37473,58475.11,11-08-2021
+Rusia,Francia,Banyuls frances,88166,31264.31,18-06-2019
+Colombia,Rusia,Oporto,75528,106826.02,19-01-2018
+Colombia,Ecuador,Ron,66944,16277.07,8-06-2021
+Colombia,Italia,Ron,112399,108714.98,16-09-2021
+Rusia,Francia,Banyuls frances,30538,52252.14,11-06-2019
+Rusia,Peru,Madeira,82612,24114.41,25-04-2018
+Alemania,Peru,Madeira,106582,22815.14,23-09-2018
+China,Mexico,Madeira,34131,63427.52,11-04-2018
+Rusia,Francia,Banyuls frances,104950,175029.04,26-10-2018
+Ecuador,Mexico,Vino,31795,3968.19,4-12-2019
+Peru,Ecuador,Madeira,68372,130656.39,22-11-2018
+Ecuador,Colombia,Vino,25911,8934.03,11-07-2021
+Colombia,Ecuador,Whisky,92769,128746.87,26-05-2020
+Francia,Italia,Oporto,96484,97443.36,2-09-2019
+Estados Unidos,Italia,Madeira,49768,51240.75,19-08-2019
+Alemania,Colombia,Whisky,84170,33432.15,23-05-2018
+Mexico,Ecuador,Whisky,50565,27362.24,23-12-2020
+Rusia,Francia,Vodka ,67747,69929.08,16-01-2019
+Ecuador,Colombia,Ron,117411,65876.75,26-08-2018
+Estados Unidos,Alemania,Cerveza,95191,13861.05,15-04-2018
+Rusia,Colombia,Cerveza,45010,82347.58,10-06-2018
+Rusia,Colombia,Whisky,72808,79163.03,17-12-2020
+Italia,Rusia,Vino,76072,25004.72,10-12-2020
+Ecuador,Peru,Madeira,31145,42422.81,10-11-2018
+Italia,Peru,Whisky,25866,47628.71,2-01-2019
+Peru,China,Brandy,57602,68039.73,21-05-2020
+Peru,Ecuador,Vino,31120,10230.02,10-10-2020
+China,Rusia,Vino,70843,59378.93,5-10-2019
+Estados Unidos,Ecuador,Vino,6389,10626.42,5-02-2021
+Ecuador,Peru,Brandy,50877,23541.75,6-11-2019
+China,Rusia,Cerveza,66388,41015.39,28-05-2020
+Colombia,Estados Unidos,Oporto,84486,29313.0,20-06-2018
+Colombia,Francia,Banyuls frances,37699,33731.27,21-09-2020
+Rusia,Francia,Whisky,9078,11995.24,1-02-2019
+Rusia,Peru,Cerveza,68027,131859.54,17-12-2018
+Alemania,Ecuador,Whisky,81951,56706.49,3-10-2020
+China,Italia,Banyuls frances,12670,19578.13,26-06-2019
+Rusia,Estados Unidos,Ron,74564,98153.5,26-11-2018
+China,Colombia,Whisky,114295,7215.85,25-03-2020
+Colombia,Ecuador,Banyuls frances,103107,55511.12,12-05-2018
+Mexico,Alemania,Banyuls frances,83297,120601.15,7-01-2020
+Francia,Peru,Cerveza,107552,105367.82,27-11-2019
+Ecuador,China,Madeira,69545,20562.05,6-06-2020
+Mexico,Ecuador,Brandy,49236,92492.84,21-08-2020
+Rusia,Alemania,Madeira,20537,20275.95,26-06-2019
+Ecuador,China,Banyuls frances,98550,104053.31,4-11-2019
+Italia,Ecuador,Whisky,52004,53239.37,27-09-2018
+Francia,Estados Unidos,Banyuls frances,119974,139616.5,21-03-2018
+China,Peru,Ron,38032,74605.56,10-08-2019
+Mexico,Rusia,Ron,8985,10955.94,16-08-2021
+Estados Unidos,Colombia,Oporto,75131,514.49,25-01-2020
+Alemania,Estados Unidos,Whisky,43524,84651.93,10-06-2018
+Francia,Colombia,Vodka ,112379,182391.97,11-07-2021
+Francia,Peru,Vino,15385,16273.21,24-03-2021
+Alemania,China,Vodka ,22819,22540.68,15-12-2021
+Estados Unidos,Italia,Vino,30483,28004.38,20-07-2019
+Mexico,Alemania,Vino,23567,16193.73,25-07-2020
+Ecuador,Francia,Whisky,109413,55431.28,22-06-2019
+Estados Unidos,Francia,Brandy,80031,114957.28,18-06-2018
+China,Rusia,Cerveza,110744,188908.02,7-08-2020
+Rusia,Estados Unidos,Vino,75100,5968.52,10-04-2020
+Mexico,Alemania,Madeira,6374,6429.96,11-04-2019
+Francia,Mexico,Vino,40268,63303.01,23-07-2020
+Estados Unidos,Francia,Banyuls frances,14915,29036.28,24-12-2020
+Alemania,Francia,Banyuls frances,60259,67303.78,9-01-2018
+Estados Unidos,Rusia,Ron,97267,37042.4,18-03-2019
+Colombia,Italia,Vodka ,10537,1803.19,20-06-2021
+Estados Unidos,Ecuador,Brandy,87865,83451.26,13-01-2019
+Mexico,Francia,Vino,69351,46739.87,13-10-2019
+China,Mexico,Oporto,60398,31335.28,2-03-2019
+China,Estados Unidos,Madeira,107684,62582.57,14-05-2020
+Estados Unidos,Rusia,Whisky,60234,65007.7,8-04-2020
+China,Colombia,Whisky,42917,78562.05,6-09-2020
+Alemania,Colombia,Vodka ,84555,144330.17,13-12-2019
+Colombia,Mexico,Brandy,65537,107981.96,2-03-2020
+Mexico,Alemania,Oporto,78313,28233.74,19-06-2020
+Peru,Estados Unidos,Vino,83942,52364.31,6-03-2019
+Francia,Alemania,Vino,47120,18938.42,7-05-2020
+Francia,Ecuador,Brandy,33645,1330.11,27-04-2020
+Colombia,Rusia,Brandy,37468,54179.51,23-05-2018
+Colombia,Ecuador,Banyuls frances,82267,111584.32,2-12-2020
+Peru,China,Banyuls frances,84429,107999.33,4-06-2020
+Alemania,Mexico,Vino,106246,156335.64,28-12-2019
+Peru,Francia,Madeira,105288,142963.95,5-11-2020
+Francia,Mexico,Whisky,25431,48500.61,22-05-2019
+Estados Unidos,Mexico,Cerveza,103440,116390.53,7-04-2018
+Estados Unidos,Rusia,Madeira,62516,76731.58,25-12-2021
+Estados Unidos,Francia,Vino,83875,97737.15,4-08-2018
+Peru,Mexico,Oporto,99186,116533.09,18-03-2018
+Italia,Estados Unidos,Banyuls frances,13617,4456.19,22-08-2021
+China,Alemania,Oporto,19167,18732.89,19-09-2021
+Italia,Rusia,Whisky,13097,9295.14,20-11-2020
+Colombia,Alemania,Banyuls frances,108568,69834.12,17-06-2019
+Francia,Rusia,Oporto,30031,24111.62,20-12-2021
+Ecuador,Rusia,Whisky,63287,66617.41,27-02-2021
+Alemania,China,Cerveza,75575,86682.16,26-03-2021
+China,Mexico,Ron,32731,64349.6,3-02-2018
+Italia,Colombia,Oporto,62543,80136.57,8-07-2019
+Peru,Italia,Cerveza,56538,68641.78,18-09-2018
+Francia,Mexico,Banyuls frances,35261,34647.87,15-03-2020
+Mexico,Francia,Vino,67637,80730.46,20-08-2019
+Francia,Alemania,Banyuls frances,14941,9702.3,8-06-2021
+Italia,Colombia,Banyuls frances,10813,5284.94,1-03-2018
+Italia,Francia,Banyuls frances,107214,32910.68,9-10-2018
+Francia,China,Vodka ,104777,51021.43,17-06-2019
+China,Peru,Vodka ,107392,158.96,25-11-2021
+Francia,Ecuador,Brandy,114096,61116.59,15-04-2019
+Mexico,Alemania,Vodka ,17778,2816.86,13-07-2020
+China,Alemania,Oporto,49358,71921.17,13-10-2018
+China,Alemania,Whisky,52845,21739.39,3-08-2018
+Mexico,Peru,Ron,15010,3421.18,18-05-2019
+Alemania,Estados Unidos,Madeira,24491,32134.6,24-04-2020
+Peru,Rusia,Oporto,77680,59241.43,15-07-2019
+Estados Unidos,Colombia,Vodka ,70999,6688.93,14-06-2020
+Alemania,Rusia,Oporto,38594,49964.27,21-04-2021
+China,Peru,Ron,34182,40516.09,4-04-2021
+Rusia,Estados Unidos,Brandy,44850,42906.7,7-07-2021
+Italia,Peru,Cerveza,48663,53388.43,6-06-2020
+Mexico,China,Vodka ,107898,76201.45,11-06-2018
+Mexico,Ecuador,Oporto,24238,47120.9,2-03-2020

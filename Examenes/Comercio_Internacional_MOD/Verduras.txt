@@ -1,0 +1,151 @@
+Comprador,Vendedor,Producto,UnidadesVendidas,VentasEn$,Fecha
+Italia,China,Aceituna,46016,35997.63,16-04-2018
+Alemania,Estados Unidos,Culantro,101590,176936.45,19-10-2019
+Peru,China,Col,79943,134002.02,28-07-2021
+Peru,Francia,Papa,85738,80245.55,6-09-2020
+Alemania,Mexico,Espinaca,60624,34090.0,11-10-2019
+Ecuador,Francia,Aceituna,58295,93457.79,10-01-2021
+Mexico,Francia,Col,83730,154902.77,3-01-2019
+Ecuador,China,Aceituna,20374,26524.56,19-08-2020
+Mexico,Ecuador,Apio,98984,123663.22,1-10-2020
+Mexico,Rusia,Cebolla,102354,25205.14,12-07-2018
+Francia,Colombia,Champiñón,11788,8795.92,17-06-2018
+Alemania,Italia,Cebolla,24915,44051.02,25-06-2021
+Mexico,Italia,Papa,106798,31674.76,20-11-2020
+Italia,Ecuador,Champiñón,74209,93516.93,23-04-2019
+Colombia,Ecuador,Espinaca,45784,50268.92,24-01-2019
+Italia,Colombia,Espinaca,24602,37546.24,7-05-2021
+Mexico,Italia,Col,78398,66583.86,28-09-2021
+Italia,Alemania,Champiñón,52745,96402.89,8-06-2021
+Rusia,Peru,Apio,5322,1468.41,18-07-2021
+Francia,Estados Unidos,Champiñón,65186,104965.12,1-09-2018
+Colombia,Mexico,Espinaca,112841,219074.15,21-07-2019
+Colombia,Ecuador,Culantro,42207,24859.58,8-03-2018
+Ecuador,Peru,Espinaca,70396,15017.36,7-11-2020
+Alemania,Rusia,Cebolla,75132,384.63,8-09-2020
+Italia,Ecuador,Espinaca,56817,16566.53,26-10-2019
+Italia,Colombia,Espinaca,66033,79306.5,22-11-2018
+Mexico,Italia,Papa,52984,97860.11,25-11-2018
+China,Italia,Pimiento,104604,122182.48,8-11-2019
+China,Francia,Champiñón,74277,35833.3,10-11-2021
+Rusia,Colombia,Papa,82970,20154.78,28-06-2019
+Peru,Colombia,Apio,114880,39541.98,12-12-2018
+Francia,Rusia,Papa,82255,12832.88,8-02-2020
+China,Ecuador,Cebolla,87991,101686.03,9-03-2020
+Peru,Ecuador,Pimiento,14280,26389.17,27-09-2021
+Estados Unidos,Francia,Papa,40121,9067.54,4-01-2021
+Peru,Alemania,Culantro,28219,44107.5,7-08-2020
+Peru,Estados Unidos,Apio,41864,43959.09,21-11-2019
+Peru,Estados Unidos,Pimiento,102594,78287.53,22-05-2019
+Ecuador,Estados Unidos,Apio,100692,159128.46,20-08-2019
+Ecuador,Alemania,Champiñón,75094,72183.19,5-07-2020
+Ecuador,Alemania,Col,49203,8288.59,7-02-2019
+Peru,Estados Unidos,Papa,92145,72339.66,1-06-2020
+Peru,Italia,Col,80297,115205.64,5-11-2018
+Peru,Francia,Papa,60559,56018.93,21-11-2021
+China,Ecuador,Col,83263,31853.34,3-06-2020
+Colombia,Francia,Aceituna,58913,66475.21,21-04-2020
+Italia,Colombia,Pimiento,116006,147160.45,5-10-2020
+Alemania,Rusia,Pimiento,72727,98618.82,28-12-2020
+Italia,Mexico,Papa,57247,8532.2,27-12-2020
+Ecuador,Colombia,Apio,70148,1175.13,10-09-2020
+Ecuador,Italia,Apio,93413,163543.67,10-02-2020
+China,Ecuador,Pimiento,72498,47724.85,28-12-2020
+Ecuador,Colombia,Cebolla,104021,8357.91,2-01-2021
+Estados Unidos,Francia,Aceituna,42472,44762.68,18-06-2021
+Estados Unidos,Rusia,Apio,72909,69411.12,20-02-2020
+China,Mexico,Culantro,92658,107075.29,26-10-2020
+Rusia,Peru,Cebolla,62956,84135.89,25-07-2018
+China,Mexico,Espinaca,11954,4409.65,11-01-2018
+Estados Unidos,Alemania,Pimiento,97166,44957.34,6-04-2019
+Rusia,Italia,Aceituna,17890,16793.03,2-12-2020
+China,Francia,Aceituna,111057,128515.06,26-07-2018
+Peru,Italia,Culantro,101252,22180.48,16-03-2019
+Estados Unidos,Peru,Culantro,74369,112676.0,21-08-2019
+Colombia,Rusia,Papa,38002,1134.18,10-12-2019
+Ecuador,Mexico,Espinaca,27259,32260.96,19-05-2020
+Ecuador,Mexico,Champiñón,109933,174420.37,18-06-2018
+Francia,Rusia,Apio,78189,138248.55,21-12-2018
+Peru,Ecuador,Aceituna,119675,38224.14,22-07-2020
+China,Italia,Cebolla,63600,49639.79,28-07-2018
+Italia,Colombia,Pimiento,103851,197829.61,11-03-2020
+Alemania,Italia,Apio,22030,39391.98,5-03-2020
+Peru,Italia,Culantro,37014,63030.71,21-02-2018
+Colombia,Ecuador,Cebolla,26463,3428.55,17-10-2020
+Colombia,Mexico,Culantro,38702,56693.11,5-04-2018
+Francia,Mexico,Cebolla,97420,130690.8,20-08-2018
+Ecuador,Estados Unidos,Col,49531,89921.72,24-06-2021
+Colombia,Francia,Espinaca,87040,77638.37,13-11-2019
+Rusia,Francia,Aceituna,110934,120027.64,6-05-2020
+Francia,Estados Unidos,Papa,27302,54030.94,25-05-2021
+Francia,Alemania,Apio,78786,89792.38,1-02-2019
+Italia,Francia,Champiñón,25727,41501.53,22-01-2018
+Italia,China,Champiñón,71115,120349.73,13-02-2020
+Estados Unidos,Peru,Apio,63913,46252.48,24-03-2018
+Rusia,Mexico,Espinaca,92780,122141.79,18-03-2018
+Mexico,Alemania,Papa,90985,76344.52,22-02-2021
+Peru,Rusia,Champiñón,40381,12637.8,13-05-2020
+Rusia,China,Papa,53691,83861.86,6-09-2018
+Ecuador,Italia,Aceituna,29463,22522.12,4-09-2021
+Estados Unidos,Italia,Aceituna,14313,8484.98,2-09-2020
+Italia,Peru,Pimiento,23512,38892.27,10-03-2020
+Peru,Italia,Champiñón,99861,101573.8,16-03-2020
+Mexico,Peru,Espinaca,22310,30185.1,6-02-2018
+Colombia,China,Col,101831,14725.56,20-12-2020
+Italia,Rusia,Cebolla,71496,103054.5,27-06-2018
+Ecuador,Alemania,Apio,69540,54217.1,2-01-2021
+Italia,Rusia,Culantro,39862,28796.16,11-02-2019
+China,Ecuador,Espinaca,63598,63769.74,22-02-2018
+Ecuador,Estados Unidos,Cebolla,112235,80205.85,14-04-2018
+Peru,Colombia,Espinaca,36725,67495.12,24-11-2020
+Francia,Estados Unidos,Apio,59690,33483.0,17-07-2018
+Ecuador,Mexico,Cebolla,35573,57424.03,6-06-2018
+Francia,Estados Unidos,Apio,57141,30270.68,25-06-2020
+Mexico,China,Pimiento,52668,98451.57,21-03-2018
+Rusia,China,Cebolla,90453,57850.13,9-01-2020
+Francia,Italia,Cebolla,10420,8870.25,9-07-2020
+Colombia,Rusia,Espinaca,106344,15651.7,2-02-2021
+Francia,Peru,Aceituna,81794,78082.16,22-04-2021
+China,Colombia,Aceituna,40884,25393.73,25-04-2019
+Francia,Colombia,Culantro,89509,80027.4,12-11-2018
+Rusia,China,Col,31137,49545.72,14-10-2019
+Colombia,Rusia,Cebolla,6430,1674.57,16-04-2021
+Peru,Estados Unidos,Cebolla,6288,6824.4,18-12-2020
+Francia,Mexico,Cebolla,29769,4970.33,28-09-2019
+Ecuador,Alemania,Espinaca,64831,44393.14,16-04-2019
+Mexico,Alemania,Pimiento,29032,14105.47,23-01-2020
+Rusia,Francia,Cebolla,108252,135892.74,14-04-2019
+Ecuador,Mexico,Culantro,72171,10288.6,24-07-2018
+Alemania,Francia,Culantro,29313,34796.51,23-12-2019
+Mexico,Peru,Col,19084,18639.23,3-11-2019
+Italia,Rusia,Aceituna,80553,40556.92,16-09-2018
+Colombia,Francia,Papa,99839,21976.72,2-01-2018
+Peru,Rusia,Aceituna,47950,89412.94,12-08-2020
+Rusia,Mexico,Cebolla,40752,20628.34,22-05-2018
+Ecuador,Italia,Col,96919,188290.94,6-05-2020
+Estados Unidos,Ecuador,Aceituna,67670,133016.15,12-05-2021
+Alemania,Ecuador,Col,30634,45261.72,21-11-2021
+Colombia,Peru,Aceituna,38392,5072.33,3-04-2019
+Ecuador,Colombia,Culantro,116532,183740.53,20-05-2021
+Rusia,Mexico,Espinaca,32015,52395.58,21-02-2020
+Peru,Mexico,Espinaca,70590,117406.73,3-12-2020
+Rusia,Alemania,Apio,30201,47587.63,17-07-2018
+Ecuador,Alemania,Cebolla,86009,91636.42,22-05-2019
+Ecuador,Alemania,Papa,57128,6659.31,12-10-2018
+Rusia,Peru,Aceituna,46386,86105.31,1-02-2020
+Mexico,China,Espinaca,84261,164760.76,12-04-2018
+Mexico,Estados Unidos,Champiñón,42570,44656.15,12-07-2021
+Ecuador,Colombia,Col,100820,1980.03,26-06-2018
+Mexico,China,Col,105214,69105.26,5-10-2021
+China,Italia,Culantro,31911,24629.02,6-07-2021
+China,Colombia,Culantro,115659,177945.3,9-04-2019
+Peru,Italia,Col,114819,149058.97,21-01-2018
+Alemania,Estados Unidos,Aceituna,33759,40094.65,1-12-2018
+Rusia,Italia,Champiñón,67684,101495.82,18-10-2018
+Italia,Ecuador,Pimiento,54823,6196.24,12-09-2021
+Francia,Colombia,Aceituna,45499,79372.02,15-02-2018
+Estados Unidos,Colombia,Espinaca,12449,4526.84,28-11-2020
+Mexico,Peru,Espinaca,53674,3932.63,18-11-2019
+Peru,Ecuador,Col,116490,60978.16,20-10-2019
+Estados Unidos,Colombia,Apio,90400,148351.47,11-10-2019
+Ecuador,China,Espinaca,39496,64756.83,27-12-2021
